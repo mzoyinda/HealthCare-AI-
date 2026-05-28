@@ -22,6 +22,13 @@ A complete, production-ready full-stack healthcare application with AI-powered s
 - Helmet.js for security headers
 - HIPAA-like data handling practices
 
+## Patient Dashboard
+![Patient Dashboard](https://github.com/mzoyinda/HealthCare-AI-/blob/main/client/public/images/patient.png)
+
+## Doctor Dashboard
+![Doctor Dashboard](https://github.com/mzoyinda/HealthCare-AI-/blob/main/client/public/images/doctor.png)
+
+
 ## Tech Stack
 
 ### Frontend
