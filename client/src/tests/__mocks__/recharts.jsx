@@ -1,0 +1,10 @@
+export const ResponsiveContainer = ({ children }) => children;
+export const BarChart = ({ children }) => <div>{children}</div>;
+export const LineChart = ({ children }) => <div>{children}</div>;
+export const Bar = () => null;
+export const Line = () => null;
+export const XAxis = () => null;
+export const YAxis = () => null;
+export const CartesianGrid = () => null;
+export const Tooltip = () => null;
+export const Legend = () => null;
